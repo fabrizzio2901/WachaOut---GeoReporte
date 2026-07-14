@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="30dp"
+        android:layout_centerInParent="true">
+
+        <ImageView
+            android:id="@+id/imgLogo"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@mipmap/ic_launcher"
+            android:layout_marginBottom="20dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bienvenido a\nWachaOut"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textColor="#333333"
+            android:layout_marginBottom="50dp"/>
+
+        <Button
+            android:id="@+id/btnIrLista"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="VER MIS REPORTES"
+            android:textSize="16sp"
+            android:layout_marginBottom="20dp"/>
+
+        <Button
+            android:id="@+id/btnIrNuevo"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="HACER NUEVO REPORTE"
+            android:textSize="16sp"
+            android:backgroundTint="#FF9800"/>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dev: Luis Fabrizzio Ramirez Romero\nDiego Rosales Benitez\nDavid Benitez Munoz"
+        android:textSize="10sp"
+        android:textColor="#888888"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:padding="8dp"/>
+
+</RelativeLayout>
