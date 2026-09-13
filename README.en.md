@@ -90,4 +90,4 @@ Credits retained from the repository:
 - Diego Rosales Benítez.
 - David Benítez Muñoz.
 
-The described scope belongs to the team project. Individual contributions still need to be documented.
+The described scope belongs to the team project. My role covered application development across the interface, logic and local persistence. This contribution reflects my full-stack approach; all three team members retain credit.

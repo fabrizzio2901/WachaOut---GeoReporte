@@ -92,4 +92,4 @@ Créditos conservados del repositorio:
 - Diego Rosales Benítez.
 - David Benítez Muñoz.
 
-El alcance descrito corresponde al proyecto del equipo. El desglose de contribuciones individuales está pendiente de documentación.
+El alcance descrito corresponde al proyecto del equipo. Mi rol fue de desarrollo integral de la aplicación: interfaz, lógica y persistencia local. Esta participación se enmarca en mi enfoque full stack; los créditos corresponden a los tres integrantes.
